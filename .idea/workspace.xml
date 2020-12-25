@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd369c93-ed7d-46df-a066-ae15a6338da7" name="Default Changelist" comment="" />
+    <list default="true" id="dd369c93-ed7d-46df-a066-ae15a6338da7" name="Default Changelist" comment="test git">
+      <change beforePath="$PROJECT_DIR$/.idea/frist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frist.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,6 +151,7 @@
       <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
       <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
       <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1i2abpmQ8lezYgnnFI3bSUksqJI" />
@@ -154,18 +189,91 @@
       <updated>1601108214633</updated>
       <workItem from="1601108215735" duration="9927000" />
       <workItem from="1605219203962" duration="1435000" />
-      <workItem from="1605221372647" duration="358000" />
+      <workItem from="1605221372647" duration="1469000" />
+      <workItem from="1605464181428" duration="1600000" />
+      <workItem from="1605466703008" duration="1023000" />
+      <workItem from="1605468573344" duration="693000" />
+      <workItem from="1605608673254" duration="1000000" />
+      <workItem from="1605613057592" duration="4061000" />
+      <workItem from="1605617159098" duration="871000" />
+      <workItem from="1606919660101" duration="1183000" />
+      <workItem from="1606921802512" duration="1441000" />
+      <workItem from="1606923624352" duration="1820000" />
+      <workItem from="1606925472443" duration="3444000" />
+      <workItem from="1606938600671" duration="1784000" />
+      <workItem from="1606940420550" duration="1786000" />
+      <workItem from="1606942253646" duration="920000" />
+      <workItem from="1607003688159" duration="1976000" />
+      <workItem from="1607005710701" duration="1645000" />
+      <workItem from="1607007538868" duration="1781000" />
+      <workItem from="1607009358311" duration="1822000" />
+      <workItem from="1607011219364" duration="1120000" />
+      <workItem from="1607013176552" duration="1686000" />
+      <workItem from="1607015025715" duration="1788000" />
+      <workItem from="1607016852141" duration="1628000" />
+      <workItem from="1607429620388" duration="1771000" />
+      <workItem from="1607431434722" duration="299000" />
+      <workItem from="1607448477607" duration="1772000" />
+      <workItem from="1607450289784" duration="1774000" />
+      <workItem from="1607452110601" duration="1776000" />
+      <workItem from="1607453936265" duration="1983000" />
+      <workItem from="1607455972572" duration="1768000" />
+      <workItem from="1607457812508" duration="1980000" />
+      <workItem from="1607459832197" duration="1400000" />
+      <workItem from="1607462200776" duration="660000" />
+      <workItem from="1607534961025" duration="1706000" />
+      <workItem from="1607540569709" duration="1780000" />
+      <workItem from="1607542403686" duration="1234000" />
+      <workItem from="1607555546019" duration="1083000" />
+      <workItem from="1607557367683" duration="1799000" />
+      <workItem from="1607559208146" duration="1341000" />
+      <workItem from="1607561072697" duration="1911000" />
+      <workItem from="1607763977962" duration="1212000" />
+      <workItem from="1607765316166" duration="1920000" />
+      <workItem from="1607767284268" duration="964000" />
+      <workItem from="1607775425754" duration="97000" />
     </task>
+    <task id="LOCAL؜٠٠٠٠١" summary="test git">
+      <created>1605222051568</created>
+      <option name="number" value="LOCAL؜٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜٠٠٠٠١" />
+      <updated>1605222051568</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test git" />
+    <option name="LAST_COMMIT_MESSAGE" value="test git" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601113285433">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601113285433" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1605222187013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605222187013" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1607017583113">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1607017583113" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601111760636">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

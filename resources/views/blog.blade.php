@@ -55,6 +55,7 @@
       <div class="container">
         <div class="row align-items-center">
 
+
           <div class="col-6 col-xl-2">
             <div class="mb-0 site-logo"><a href="index.blade.php" class="mb-0">Covid<span class="text-primary">.</span> </a></div>
           </div>

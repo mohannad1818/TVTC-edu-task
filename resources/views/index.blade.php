@@ -32,6 +32,8 @@ style.css">
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 
 
+
+
   <div id="overlayer"></div>
   <div class="loader">
     <div class="spinner-border text-primary" role="status">
@@ -566,6 +568,8 @@ style.css">
     </div>
 
   </div> <!-- .site-wrap -->
+  
+
 
   <script src="<?php echo url('/'); ?>/js/jquery-3.3.1.min.js"></script>
   <script src="<?php echo url('/'); ?>/js/jquery-ui.js"></script>
@@ -581,6 +585,8 @@ style.css">
 
 
   <script src="js/main.js"></script>
+
+  
 
 
 </body>
